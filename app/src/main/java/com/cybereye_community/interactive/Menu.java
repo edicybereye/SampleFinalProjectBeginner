@@ -45,13 +45,10 @@ public class Menu extends Activity {
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
                 String apa = provider[+position];
-                if(apa == "Mentari" ){
+                    
                     Intent i = new Intent(getApplicationContext(),Price.class);
                     i.putExtra("a",apa);
                     startActivity(i);
-                }else{
-                    Toast.makeText(getApplicationContext(),"Maaf",Toast.LENGTH_SHORT).show();
-                }
 
             }
         });
