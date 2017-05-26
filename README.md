@@ -1,5 +1,10 @@
 # Sample Project Beginner (Indonesia Android Kejar)
 In here we training develop everything and build everything about layout and App Interactive, for sample application we create on this session is Login which any View EditText with Email and Password also View Button for Submit authentication with some statement IF .. ELSEIF .. ELSE and some operation Math 
+
+![image](https://cloud.githubusercontent.com/assets/28985797/26513817/d41b6768-4297-11e7-9705-cbc605de54e6.png)
+![image](https://cloud.githubusercontent.com/assets/28985797/26513792/ad1f485a-4297-11e7-89a2-653ab3927038.png)
+![image](https://cloud.githubusercontent.com/assets/28985797/26513810/c60bbc0e-4297-11e7-9fc6-1af3d48c5f62.png)
+
 ## Layout XML 
 Create New project | File - New - New Project and for Project Name "Interactive" Company Domain "cybereye-community.com" and Activity with "Empty Activity" Activity Name is Default
 
