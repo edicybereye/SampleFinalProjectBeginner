@@ -131,3 +131,4 @@ public class MainActivity extends AppCompatActivity {
 }
 
 ```
+That's sample XML and Java Class on MainActivity or First Activity for detail I can't explain more in README.md, So please download and try it. If you found some issue let me know. Thanks you.
